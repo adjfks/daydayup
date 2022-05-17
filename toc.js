@@ -28,7 +28,7 @@ function traverse(root, level, arr) {
 	if (stat.isFile()) {
 		if (path.extname(root) !== '.md') return
 		var fileName = root.split('\\').pop()
-		arr.push(`${prefix}[${fileName.split('.')[0]}](${repoPath}${fileName}})`)
+		arr.push(`${prefix}[${fileName.split('.')[0]}](${repoPath}${fileName})`)
 	} else {
 		var title = root.split('\\').pop()
 		if (level) arr.push(`${prefix}${title}`)

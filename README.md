@@ -8,12 +8,13 @@
 </p>
 
 - JavaScript
-  - [bind的模拟实现](https://github.com/adjfks/daydayup/blob/main/bind的模拟实现.md})
-  - [call和apply的模拟实现](https://github.com/adjfks/daydayup/blob/main/call和apply的模拟实现.md})
-  - [instanceof和typeof的实现原理](https://github.com/adjfks/daydayup/blob/main/instanceof和typeof的实现原理.md})
-  - [从ECMAScript解读this](https://github.com/adjfks/daydayup/blob/main/从ECMAScript解读this.md})
-  - [立即执行函数IIFE](https://github.com/adjfks/daydayup/blob/main/立即执行函数IIFE.md})
+  - [bind的模拟实现](https://github.com/adjfks/daydayup/blob/main/bind的模拟实现.md)
+  - [call和apply的模拟实现](https://github.com/adjfks/daydayup/blob/main/call和apply的模拟实现.md)
+  - [instanceof和typeof的实现原理](https://github.com/adjfks/daydayup/blob/main/instanceof和typeof的实现原理.md)
+  - [从ECMAScript解读this](https://github.com/adjfks/daydayup/blob/main/从ECMAScript解读this.md)
+  - [立即执行函数IIFE](https://github.com/adjfks/daydayup/blob/main/立即执行函数IIFE.md)
+- [README](https://github.com/adjfks/daydayup/blob/main/README.md)
 - Vue
-  - [Vue插件](https://github.com/adjfks/daydayup/blob/main/Vue插件.md})
+  - [Vue插件](https://github.com/adjfks/daydayup/blob/main/Vue插件.md)
 - 软实力
-  - [前端设计文档模板](https://github.com/adjfks/daydayup/blob/main/前端设计文档模板.md})
+  - [前端设计文档模板](https://github.com/adjfks/daydayup/blob/main/前端设计文档模板.md)
