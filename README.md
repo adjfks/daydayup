@@ -2,7 +2,6 @@
 
 <br/><p align='center'><p align='center'>你好！我是coner!一名前端小白~</p><br/><p align='center'>这个仓库包含了我的个人文章，学习笔记，前端资源...</p><br/><p align='center'>仓库取名为daydayup就是要激励自己每天学习，技术沉淀！</p></p>
 
-
 ### JavaScript
 
 * [bind的模拟实现](https://github.com/adjfks/daydayup/blob/main\JavaScript\bind的模拟实现.md)
@@ -22,4 +21,3 @@
 ## 维护
 
 本文档由 [corner](https://github.com/adjfks) 维护
-
