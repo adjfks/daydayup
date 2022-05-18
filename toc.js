@@ -16,7 +16,7 @@ const content = `# daydayup
 
 
 `
-const ignore = ['.git']
+const ignore = ['.git', 'README.md']
 
 function traverse(root, level, arr) {
 	if (ignore.findIndex((item) => item === root.split('\\').pop()) !== -1) return
@@ -27,8 +27,11 @@ function traverse(root, level, arr) {
 	prefix += '- '
 	if (stat.isFile()) {
 		if (path.extname(root) !== '.md') return
-		var fileName = root.split('\\').pop()
-		arr.push(`${prefix}[${fileName.split('.')[0]}](${repoPath}${fileName})`)
+		var pathArr = root.split('\\')
+		var fileName = pathArr.pop()
+		const src = `${prefix}[${fileName.split('.')[0]}](${repoPath}${pathArr[pathArr.length - 1]}/${fileName})`
+		console.log(src)
+		arr.push(src)
 	} else {
 		var title = root.split('\\').pop()
 		if (level) arr.push(`${prefix}${title}`)
