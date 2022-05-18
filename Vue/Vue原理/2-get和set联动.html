@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+	</head>
+	<body>
+		<script>
+			let _name = 'corner'
+let data1 = {}
+Object.defineProperty(data1, 'name', {
+  // 访问data1.name是自动调用set,得到get的返回值
+  get() {
+    console.log('访问了data1.name')
+    return _name
+  },
+  // 修改name时调用的函数，传入新值
+  set(newVal) {
+    console.log('修改了data1.name，最新的值为：', newVal)
+    _name = newVal
+  }
+})
+		</script>
+	</body>
+</html>

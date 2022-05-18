@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+	</head>
+	<body>
+		<div id="app">
+			<p></p>
+		</div>
+		<script>
+			// 1.数据
+			let data = {
+				name: 'corner'
+			}
+
+			// 2. 对象属性劫持实现响应式
+			Object.keys(data).forEach((key) => {
+				defineReactive(data, key, data[key])
+			})
+
+			function defineReactive(obj, key, value) {
+				Object.defineProperty(obj, key, {
+					get() {
+						return value
+					},
+					set(newVal) {
+						value = newVal
+						// 3. 操作DOM，反映到视图
+						document.querySelector('#app p').innerText = newVal
+					}
+				})
+			}
+		</script>
+	</body>
+</html>
