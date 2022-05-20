@@ -20,169 +20,174 @@
 <br/>
 
 - assets
-  - images
+    - images
 - CSS
-  - [css选择器](https://github.com/adjfks/daydayup/blob/main/CSS/css选择器.md)
-  - [flex布局基础到进阶](https://github.com/adjfks/daydayup/blob/main/CSS/flex布局基础到进阶.md)
-  - [盒子模型](https://github.com/adjfks/daydayup/blob/main/CSS/盒子模型.md)
+    - [css选择器](https://github.com/adjfks/daydayup/blob/main/CSS/css选择器.md)
+    - [flex布局基础到进阶](https://github.com/adjfks/daydayup/blob/main/CSS/flex布局基础到进阶.md)
+    - [盒子模型](https://github.com/adjfks/daydayup/blob/main/CSS/盒子模型.md)
+- ES6
 - JavaScript
-  - [bind的模拟实现](https://github.com/adjfks/daydayup/blob/main/JavaScript/bind的模拟实现.md)
-  - [call和apply的模拟实现](https://github.com/adjfks/daydayup/blob/main/JavaScript/call和apply的模拟实现.md)
-  - [Function](https://github.com/adjfks/daydayup/blob/main/JavaScript/Function.md)
-  - [instanceof和typeof的实现原理](https://github.com/adjfks/daydayup/blob/main/JavaScript/instanceof和typeof的实现原理.md)
-  - [javascript事件循环机制](https://github.com/adjfks/daydayup/blob/main/JavaScript/javascript事件循环机制.md)
-  - [javascript多种继承方式及其优缺点](https://github.com/adjfks/daydayup/blob/main/JavaScript/javascript多种继承方式及其优缺点.md)
-  - [new操作符](https://github.com/adjfks/daydayup/blob/main/JavaScript/new操作符.md)
-  - [promise原理](https://github.com/adjfks/daydayup/blob/main/JavaScript/promise原理.md)
-  - [从ECMAScript解读this](https://github.com/adjfks/daydayup/blob/main/JavaScript/从ECMAScript解读this.md)
-  - [散列哈希](https://github.com/adjfks/daydayup/blob/main/JavaScript/散列哈希.md)
-  - [柯里化](https://github.com/adjfks/daydayup/blob/main/JavaScript/柯里化.md)
-  - [浮点数精度](https://github.com/adjfks/daydayup/blob/main/JavaScript/浮点数精度.md)
-  - [深入理解Generator](https://github.com/adjfks/daydayup/blob/main/JavaScript/深入理解Generator.md)
-  - [立即执行函数IIFE](https://github.com/adjfks/daydayup/blob/main/JavaScript/立即执行函数IIFE.md)
+    - [bind的模拟实现](https://github.com/adjfks/daydayup/blob/main/JavaScript/bind的模拟实现.md)
+    - [call和apply的模拟实现](https://github.com/adjfks/daydayup/blob/main/JavaScript/call和apply的模拟实现.md)
+    - [Function](https://github.com/adjfks/daydayup/blob/main/JavaScript/Function.md)
+    - [instanceof和typeof的实现原理](https://github.com/adjfks/daydayup/blob/main/JavaScript/instanceof和typeof的实现原理.md)
+    - [javascript中的作用域和执行上下文](https://github.com/adjfks/daydayup/blob/main/JavaScript/javascript中的作用域和执行上下文.md)
+    - [javascript事件循环机制](https://github.com/adjfks/daydayup/blob/main/JavaScript/javascript事件循环机制.md)
+    - [javascript多种继承方式及其优缺点](https://github.com/adjfks/daydayup/blob/main/JavaScript/javascript多种继承方式及其优缺点.md)
+    - [new操作符](https://github.com/adjfks/daydayup/blob/main/JavaScript/new操作符.md)
+    - [promise原理](https://github.com/adjfks/daydayup/blob/main/JavaScript/promise原理.md)
+    - [从ECMAScript解读this](https://github.com/adjfks/daydayup/blob/main/JavaScript/从ECMAScript解读this.md)
+    - [变量对象与作用域链](https://github.com/adjfks/daydayup/blob/main/JavaScript/变量对象与作用域链.md)
+    - [散列哈希](https://github.com/adjfks/daydayup/blob/main/JavaScript/散列哈希.md)
+    - [柯里化](https://github.com/adjfks/daydayup/blob/main/JavaScript/柯里化.md)
+    - [浮点数精度](https://github.com/adjfks/daydayup/blob/main/JavaScript/浮点数精度.md)
+    - [深入理解Generator](https://github.com/adjfks/daydayup/blob/main/JavaScript/深入理解Generator.md)
+    - [立即执行函数IIFE](https://github.com/adjfks/daydayup/blob/main/JavaScript/立即执行函数IIFE.md)
+    - [闭包和虽死犹存的函数](https://github.com/adjfks/daydayup/blob/main/JavaScript/闭包和虽死犹存的函数.md)
 - Vue
-  - Vue原理
-    - .vscode
-  - [Vue原理](https://github.com/adjfks/daydayup/blob/main/Vue/Vue原理.md)
-  - [Vue插件](https://github.com/adjfks/daydayup/blob/main/Vue/Vue插件.md)
-- webpack
-  - [Webpack中的tree-shaking](https://github.com/adjfks/daydayup/blob/main/webpack/Webpack中的tree-shaking.md)
-  - [webpack内部原理](https://github.com/adjfks/daydayup/blob/main/webpack/webpack内部原理.md)
-- 手写系列
-  - [day11](https://github.com/adjfks/daydayup/blob/main/手写系列/day11.md)
-  - [手写系列一](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列一.md)
-  - [手写系列七](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列七.md)
-  - [手写系列三](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列三.md)
-  - [手写系列二](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列二.md)
-  - [手写系列五](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列五.md)
-  - [手写系列六](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列六.md)
-  - [手写系列四](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列四.md)
-- 每日leetcode
-  - 代码随想录一刷
-    - day1
-      - [day1](https://github.com/adjfks/daydayup/blob/main/day1/day1.md)
-    - day10
-      - [day10](https://github.com/adjfks/daydayup/blob/main/day10/day10.md)
-    - day11
-      - [day11](https://github.com/adjfks/daydayup/blob/main/day11/day11.md)
-    - day12
-      - [day12](https://github.com/adjfks/daydayup/blob/main/day12/day12.md)
-    - day13
-      - [day13](https://github.com/adjfks/daydayup/blob/main/day13/day13.md)
-    - day14
-      - [day14](https://github.com/adjfks/daydayup/blob/main/day14/day14.md)
-    - day15
-      - [day15](https://github.com/adjfks/daydayup/blob/main/day15/day15.md)
-    - day16
-      - [day16](https://github.com/adjfks/daydayup/blob/main/day16/day16.md)
-    - day17
-      - [day17](https://github.com/adjfks/daydayup/blob/main/day17/day17.md)
-    - day18
-      - code
-      - [day18](https://github.com/adjfks/daydayup/blob/main/day18/day18.md)
-    - day19
-      - [day19](https://github.com/adjfks/daydayup/blob/main/day19/day19.md)
-    - day2
-      - [day2](https://github.com/adjfks/daydayup/blob/main/day2/day2.md)
-      - kmp
-    - day20
-      - [day20](https://github.com/adjfks/daydayup/blob/main/day20/day20.md)
-    - day21
-      - [day21](https://github.com/adjfks/daydayup/blob/main/day21/day21.md)
-    - day22
-      - [day22](https://github.com/adjfks/daydayup/blob/main/day22/day22.md)
-    - day23
-      - [day23](https://github.com/adjfks/daydayup/blob/main/day23/day23.md)
-    - day24
-      - [day24](https://github.com/adjfks/daydayup/blob/main/day24/day24.md)
-    - day25
-      - [day25](https://github.com/adjfks/daydayup/blob/main/day25/day25.md)
-    - day26
-      - [day26](https://github.com/adjfks/daydayup/blob/main/day26/day26.md)
-    - day27
-      - [day27](https://github.com/adjfks/daydayup/blob/main/day27/day27.md)
-    - day28
-      - [day28](https://github.com/adjfks/daydayup/blob/main/day28/day28.md)
-    - day29
-      - [day29](https://github.com/adjfks/daydayup/blob/main/day29/day29.md)
-    - day3
-      - code
-      - [day3](https://github.com/adjfks/daydayup/blob/main/day3/day3.md)
-    - day30
-      - [235](https://github.com/adjfks/daydayup/blob/main/day30/235. 二叉搜索树的最近公共祖先.md)
-      - [236](https://github.com/adjfks/daydayup/blob/main/day30/236. 二叉树的最近公共祖先.md)
-      - [701](https://github.com/adjfks/daydayup/blob/main/day30/701.二叉搜索树中的插入操作.md)
-    - day31
-      - [108](https://github.com/adjfks/daydayup/blob/main/day31/108. 将有序数组转换为二叉搜索树.md)
-      - [450](https://github.com/adjfks/daydayup/blob/main/day31/450. 删除二叉搜索树中的节点.md)
-      - [669](https://github.com/adjfks/daydayup/blob/main/day31/669. 修剪二叉搜索树.md)
-    - day32
-      - [455](https://github.com/adjfks/daydayup/blob/main/day32/455. 分发饼干.md)
-      - [53](https://github.com/adjfks/daydayup/blob/main/day32/53. 最大子数组和.md)
-      - [538](https://github.com/adjfks/daydayup/blob/main/day32/538. 把二叉搜索树转换为累加树.md)
-    - day33
-      - [134](https://github.com/adjfks/daydayup/blob/main/day33/134. 加油站.md)
-      - [135](https://github.com/adjfks/daydayup/blob/main/day33/135. 分发糖果.md)
-      - [860](https://github.com/adjfks/daydayup/blob/main/day33/860. 柠檬水找零.md)
-    - day34
-      - [406](https://github.com/adjfks/daydayup/blob/main/day34/406. 根据身高重建队列.md)
-      - [435](https://github.com/adjfks/daydayup/blob/main/day34/435. 无重叠区间.md)
-      - [452](https://github.com/adjfks/daydayup/blob/main/day34/452. 用最少数量的箭引爆气球.md)
-    - day35
-      - [56](https://github.com/adjfks/daydayup/blob/main/day35/56. 合并区间.md)
-      - [738](https://github.com/adjfks/daydayup/blob/main/day35/738. 单调递增的数字.md)
-      - [763](https://github.com/adjfks/daydayup/blob/main/day35/763. 划分字母区间.md)
-    - day36
-      - [242](https://github.com/adjfks/daydayup/blob/main/day36/242. 有效的字母异位词.md)
-      - [714](https://github.com/adjfks/daydayup/blob/main/day36/714. 买卖股票的最佳时机含手续费.md)
-      - [968](https://github.com/adjfks/daydayup/blob/main/day36/968. 监控二叉树.md)
-    - day37
-      - [1002](https://github.com/adjfks/daydayup/blob/main/day37/1002. 查找共用字符.md)
-      - [202](https://github.com/adjfks/daydayup/blob/main/day37/202. 快乐数.md)
-      - [349](https://github.com/adjfks/daydayup/blob/main/day37/349.两个数组的交集.md)
-    - day38
-      - [meituan-001](https://github.com/adjfks/daydayup/blob/main/day38/meituan-001. 小美的用户名.md)
-    - day39
-      - [442](https://github.com/adjfks/daydayup/blob/main/day39/442. 数组中重复的数据.md)
-    - day4
-      - code
-      - [day4](https://github.com/adjfks/daydayup/blob/main/day4/day4.md)
-    - day40
-      - [面试题 03](https://github.com/adjfks/daydayup/blob/main/day40/面试题 03.05. 栈排序.md)
-    - day41
-      - [449](https://github.com/adjfks/daydayup/blob/main/day41/449. 序列化和反序列化二叉搜索树.md)
-    - day42
-      - [57](https://github.com/adjfks/daydayup/blob/main/day42/57. 插入区间.md)
-      - [944](https://github.com/adjfks/daydayup/blob/main/day42/944. 删列造序.md)
-    - day43
-      - [面试题 01](https://github.com/adjfks/daydayup/blob/main/day43/面试题 01.05. 一次编辑.md)
-    - day44
-      - [15](https://github.com/adjfks/daydayup/blob/main/day44/15. 三数之和.md)
-    - day45
-    - day5
-      - code
+    - Vue原理
         - .vscode
-      - [day5](https://github.com/adjfks/daydayup/blob/main/day5/day5.md)
-    - day6
-      - code
-        - 1-455-分发饼干
-        - 3-53-最大子数组和
-      - [day6](https://github.com/adjfks/daydayup/blob/main/day6/day6.md)
-    - day7
-      - [day7](https://github.com/adjfks/daydayup/blob/main/day7/day7.md)
-    - day8
-      - [day8](https://github.com/adjfks/daydayup/blob/main/day8/day8.md)
-    - day9
-      - code
-      - [day9](https://github.com/adjfks/daydayup/blob/main/day9/day9.md)
-  - 剑指offer2
-    - day1
-      - [剑指 Offer 12](https://github.com/adjfks/daydayup/blob/main/day1/剑指 Offer 12. 矩阵中的路径.md)
+    - [Vue原理](https://github.com/adjfks/daydayup/blob/main/Vue/Vue原理.md)
+    - [Vue插件](https://github.com/adjfks/daydayup/blob/main/Vue/Vue插件.md)
+- webpack
+    - [Webpack中的tree-shaking](https://github.com/adjfks/daydayup/blob/main/webpack/Webpack中的tree-shaking.md)
+    - [webpack内部原理](https://github.com/adjfks/daydayup/blob/main/webpack/webpack内部原理.md)
+- 手写系列
+    - [day11](https://github.com/adjfks/daydayup/blob/main/手写系列/day11.md)
+    - [手写系列一](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列一.md)
+    - [手写系列七](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列七.md)
+    - [手写系列三](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列三.md)
+    - [手写系列二](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列二.md)
+    - [手写系列五](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列五.md)
+    - [手写系列六](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列六.md)
+    - [手写系列四](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列四.md)
+- 每日leetcode
+    - 代码随想录一刷
+        - day1
+            - [day1](https://github.com/adjfks/daydayup/blob/main/day1/day1.md)
+        - day10
+            - [day10](https://github.com/adjfks/daydayup/blob/main/day10/day10.md)
+        - day11
+            - [day11](https://github.com/adjfks/daydayup/blob/main/day11/day11.md)
+        - day12
+            - [day12](https://github.com/adjfks/daydayup/blob/main/day12/day12.md)
+        - day13
+            - [day13](https://github.com/adjfks/daydayup/blob/main/day13/day13.md)
+        - day14
+            - [day14](https://github.com/adjfks/daydayup/blob/main/day14/day14.md)
+        - day15
+            - [day15](https://github.com/adjfks/daydayup/blob/main/day15/day15.md)
+        - day16
+            - [day16](https://github.com/adjfks/daydayup/blob/main/day16/day16.md)
+        - day17
+            - [day17](https://github.com/adjfks/daydayup/blob/main/day17/day17.md)
+        - day18
+            - code
+            - [day18](https://github.com/adjfks/daydayup/blob/main/day18/day18.md)
+        - day19
+            - [day19](https://github.com/adjfks/daydayup/blob/main/day19/day19.md)
+        - day2
+            - [day2](https://github.com/adjfks/daydayup/blob/main/day2/day2.md)
+            - kmp
+        - day20
+            - [day20](https://github.com/adjfks/daydayup/blob/main/day20/day20.md)
+        - day21
+            - [day21](https://github.com/adjfks/daydayup/blob/main/day21/day21.md)
+        - day22
+            - [day22](https://github.com/adjfks/daydayup/blob/main/day22/day22.md)
+        - day23
+            - [day23](https://github.com/adjfks/daydayup/blob/main/day23/day23.md)
+        - day24
+            - [day24](https://github.com/adjfks/daydayup/blob/main/day24/day24.md)
+        - day25
+            - [day25](https://github.com/adjfks/daydayup/blob/main/day25/day25.md)
+        - day26
+            - [day26](https://github.com/adjfks/daydayup/blob/main/day26/day26.md)
+        - day27
+            - [day27](https://github.com/adjfks/daydayup/blob/main/day27/day27.md)
+        - day28
+            - [day28](https://github.com/adjfks/daydayup/blob/main/day28/day28.md)
+        - day29
+            - [day29](https://github.com/adjfks/daydayup/blob/main/day29/day29.md)
+        - day3
+            - code
+            - [day3](https://github.com/adjfks/daydayup/blob/main/day3/day3.md)
+        - day30
+            - [235](https://github.com/adjfks/daydayup/blob/main/day30/235. 二叉搜索树的最近公共祖先.md)
+            - [236](https://github.com/adjfks/daydayup/blob/main/day30/236. 二叉树的最近公共祖先.md)
+            - [701](https://github.com/adjfks/daydayup/blob/main/day30/701.二叉搜索树中的插入操作.md)
+        - day31
+            - [108](https://github.com/adjfks/daydayup/blob/main/day31/108. 将有序数组转换为二叉搜索树.md)
+            - [450](https://github.com/adjfks/daydayup/blob/main/day31/450. 删除二叉搜索树中的节点.md)
+            - [669](https://github.com/adjfks/daydayup/blob/main/day31/669. 修剪二叉搜索树.md)
+        - day32
+            - [455](https://github.com/adjfks/daydayup/blob/main/day32/455. 分发饼干.md)
+            - [53](https://github.com/adjfks/daydayup/blob/main/day32/53. 最大子数组和.md)
+            - [538](https://github.com/adjfks/daydayup/blob/main/day32/538. 把二叉搜索树转换为累加树.md)
+        - day33
+            - [134](https://github.com/adjfks/daydayup/blob/main/day33/134. 加油站.md)
+            - [135](https://github.com/adjfks/daydayup/blob/main/day33/135. 分发糖果.md)
+            - [860](https://github.com/adjfks/daydayup/blob/main/day33/860. 柠檬水找零.md)
+        - day34
+            - [406](https://github.com/adjfks/daydayup/blob/main/day34/406. 根据身高重建队列.md)
+            - [435](https://github.com/adjfks/daydayup/blob/main/day34/435. 无重叠区间.md)
+            - [452](https://github.com/adjfks/daydayup/blob/main/day34/452. 用最少数量的箭引爆气球.md)
+        - day35
+            - [56](https://github.com/adjfks/daydayup/blob/main/day35/56. 合并区间.md)
+            - [738](https://github.com/adjfks/daydayup/blob/main/day35/738. 单调递增的数字.md)
+            - [763](https://github.com/adjfks/daydayup/blob/main/day35/763. 划分字母区间.md)
+        - day36
+            - [242](https://github.com/adjfks/daydayup/blob/main/day36/242. 有效的字母异位词.md)
+            - [714](https://github.com/adjfks/daydayup/blob/main/day36/714. 买卖股票的最佳时机含手续费.md)
+            - [968](https://github.com/adjfks/daydayup/blob/main/day36/968. 监控二叉树.md)
+        - day37
+            - [1002](https://github.com/adjfks/daydayup/blob/main/day37/1002. 查找共用字符.md)
+            - [202](https://github.com/adjfks/daydayup/blob/main/day37/202. 快乐数.md)
+            - [349](https://github.com/adjfks/daydayup/blob/main/day37/349.两个数组的交集.md)
+        - day38
+            - [meituan-001](https://github.com/adjfks/daydayup/blob/main/day38/meituan-001. 小美的用户名.md)
+        - day39
+            - [442](https://github.com/adjfks/daydayup/blob/main/day39/442. 数组中重复的数据.md)
+        - day4
+            - code
+            - [day4](https://github.com/adjfks/daydayup/blob/main/day4/day4.md)
+        - day40
+            - [面试题 03](https://github.com/adjfks/daydayup/blob/main/day40/面试题 03.05. 栈排序.md)
+        - day41
+            - [449](https://github.com/adjfks/daydayup/blob/main/day41/449. 序列化和反序列化二叉搜索树.md)
+        - day42
+            - [57](https://github.com/adjfks/daydayup/blob/main/day42/57. 插入区间.md)
+            - [944](https://github.com/adjfks/daydayup/blob/main/day42/944. 删列造序.md)
+        - day43
+            - [面试题 01](https://github.com/adjfks/daydayup/blob/main/day43/面试题 01.05. 一次编辑.md)
+        - day44
+            - [15](https://github.com/adjfks/daydayup/blob/main/day44/15. 三数之和.md)
+        - day45
+        - day5
+            - code
+                - .vscode
+            - [day5](https://github.com/adjfks/daydayup/blob/main/day5/day5.md)
+        - day6
+            - code
+                - 1-455-分发饼干
+                - 3-53-最大子数组和
+            - [day6](https://github.com/adjfks/daydayup/blob/main/day6/day6.md)
+        - day7
+            - [day7](https://github.com/adjfks/daydayup/blob/main/day7/day7.md)
+        - day8
+            - [day8](https://github.com/adjfks/daydayup/blob/main/day8/day8.md)
+        - day9
+            - code
+            - [day9](https://github.com/adjfks/daydayup/blob/main/day9/day9.md)
+    - 剑指offer2
+        - day1
+            - [剑指 Offer 12](https://github.com/adjfks/daydayup/blob/main/day1/剑指 Offer 12. 矩阵中的路径.md)
 - 浏览器
-  - [v8引擎的垃圾回收机制](https://github.com/adjfks/daydayup/blob/main/浏览器/v8引擎的垃圾回收机制.md)
+    - [v8引擎的垃圾回收机制](https://github.com/adjfks/daydayup/blob/main/浏览器/v8引擎的垃圾回收机制.md)
 - 计算机网络
-  - [Linux系统是如何收发网络包的](https://github.com/adjfks/daydayup/blob/main/计算机网络/Linux系统是如何收发网络包的.md)
-  - [TCPIP网络模型有哪几层](https://github.com/adjfks/daydayup/blob/main/计算机网络/TCPIP网络模型有哪几层.md)
-  - [键入网址到网页显示期间发生了什么？](https://github.com/adjfks/daydayup/blob/main/计算机网络/键入网址到网页显示期间发生了什么？.md)
+    - [Linux系统是如何收发网络包的](https://github.com/adjfks/daydayup/blob/main/计算机网络/Linux系统是如何收发网络包的.md)
+    - [TCPIP网络模型有哪几层](https://github.com/adjfks/daydayup/blob/main/计算机网络/TCPIP网络模型有哪几层.md)
+    - [计算机网络模型](https://github.com/adjfks/daydayup/blob/main/计算机网络/计算机网络模型.md)
+    - [键入网址到网页显示期间发生了什么？](https://github.com/adjfks/daydayup/blob/main/计算机网络/键入网址到网页显示期间发生了什么？.md)
 - 软实力
-  - [前端设计文档模板](https://github.com/adjfks/daydayup/blob/main/软实力/前端设计文档模板.md)
+    - [前端设计文档模板](https://github.com/adjfks/daydayup/blob/main/软实力/前端设计文档模板.md)
