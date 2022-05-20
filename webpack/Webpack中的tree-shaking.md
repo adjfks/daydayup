@@ -1,6 +1,6 @@
 # Webpack中的tree-shaking
 
-tree-shaking就是在把js文件中无用的模块或者代码删掉。而这通常需要借助一些工具。在webpack中tree-shaking就是在打包时移除掉javascript上下文中无用的代码，，从而优化打包的结果。
+tree-shaking就是把js文件中无用的模块或者代码删掉。而这通常需要借助一些工具。在webpack中tree-shaking就是在打包时移除掉javascript上下文中无用的代码，，从而优化打包的结果。
 
 在webpack5中已经自带tree-shaking功能，在打包模式为`production`时，默认开启 tree-shaking功能。
 
