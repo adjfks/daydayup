@@ -230,7 +230,7 @@ export default {
       // 将每一项加入数组中
       children.push(item)
       // 当前项不是最后一项就在它后面加一个分隔符，分隔符使用h函数创建
-      idx !== items.length && children.push(h('i', { class: 'iconfont icon-angle-right' }))
+      idx !== items.length - 1 && children.push(h('i', { class: 'iconfont icon-angle-right' }))
     })
     // render函数返回当前组件渲染内容
     return h('div', { class: 'xtx-bread' }, children)

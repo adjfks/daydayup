@@ -43,6 +43,15 @@
     - [深入理解Generator](https://github.com/adjfks/daydayup/blob/main/JavaScript/深入理解Generator.md)
     - [立即执行函数IIFE](https://github.com/adjfks/daydayup/blob/main/JavaScript/立即执行函数IIFE.md)
     - [闭包和虽死犹存的函数](https://github.com/adjfks/daydayup/blob/main/JavaScript/闭包和虽死犹存的函数.md)
+- series
+    - [computed中不要有异步操作](https://github.com/adjfks/daydayup/blob/main/series/computed中不要有异步操作.md)
+    - [vue-router自动滚动到顶部](https://github.com/adjfks/daydayup/blob/main/series/vue-router自动滚动到顶部.md)
+    - [vue-touter完整的导航解析流程](https://github.com/adjfks/daydayup/blob/main/series/vue-touter完整的导航解析流程.md)
+    - [vue3组件v-model](https://github.com/adjfks/daydayup/blob/main/series/vue3组件v-model.md)
+    - [vue内置transition组件使用](https://github.com/adjfks/daydayup/blob/main/series/vue内置transition组件使用.md)
+    - [vue根据路由id变化获取新数据](https://github.com/adjfks/daydayup/blob/main/series/vue根据路由id变化获取新数据.md)
+    - [vue组件上添加属性](https://github.com/adjfks/daydayup/blob/main/series/vue组件上添加属性.md)
+    - [一个待解决的await的问题](https://github.com/adjfks/daydayup/blob/main/series/一个待解决的await的问题.md)
 - Vue
     - [useRoute和useRouter都区别](https://github.com/adjfks/daydayup/blob/main/Vue/useRoute和useRouter都区别.md)
     - [Vue3文档学习笔记](https://github.com/adjfks/daydayup/blob/main/Vue/Vue3文档学习笔记.md)
