@@ -35,7 +35,6 @@
     - [javascript事件循环机制](https://github.com/adjfks/daydayup/blob/main/JavaScript/javascript事件循环机制.md)
     - [javascript多种继承方式及其优缺点](https://github.com/adjfks/daydayup/blob/main/JavaScript/javascript多种继承方式及其优缺点.md)
     - [new操作符](https://github.com/adjfks/daydayup/blob/main/JavaScript/new操作符.md)
-    - [promise原理](https://github.com/adjfks/daydayup/blob/main/JavaScript/promise原理.md)
     - [从ECMAScript解读this](https://github.com/adjfks/daydayup/blob/main/JavaScript/从ECMAScript解读this.md)
     - [变量对象与作用域链](https://github.com/adjfks/daydayup/blob/main/JavaScript/变量对象与作用域链.md)
     - [散列哈希](https://github.com/adjfks/daydayup/blob/main/JavaScript/散列哈希.md)
@@ -51,6 +50,7 @@
         - .vscode
     - [Vue原理](https://github.com/adjfks/daydayup/blob/main/Vue/Vue原理.md)
     - [Vue插件](https://github.com/adjfks/daydayup/blob/main/Vue/Vue插件.md)
+    - [Vue渲染函数](https://github.com/adjfks/daydayup/blob/main/Vue/Vue渲染函数.md)
 - webpack
     - [Webpack中的tree-shaking](https://github.com/adjfks/daydayup/blob/main/webpack/Webpack中的tree-shaking.md)
     - [webpack内部原理](https://github.com/adjfks/daydayup/blob/main/webpack/webpack内部原理.md)
