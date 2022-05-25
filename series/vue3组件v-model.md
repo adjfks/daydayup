@@ -59,3 +59,13 @@ setup(props, { emit }) {
     return { checked, changeChecked }
   }
 ```
+
+
+
+### 组件上使用
+
+```html
+<XtxCheckbox :modelValue="item.selected" @change="checkOne(item.skuId, $event)" />
+```
+
+默认自定义事件的第一个参数就是emit时传的值，如果不放在第一个参数就要使用$event接收。

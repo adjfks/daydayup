@@ -21,8 +21,6 @@ typeof可能返回的值如下：
 
 那么typeof的实现原理是什么呢？这就得先说说js在底层是如何存储变量的数据类型信息的。
 
-
-
 其实，js 在底层存储变量的时候，会在变量的机器码的低位1-3位存储其类型信息：
 
 - 000：对象
@@ -63,8 +61,6 @@ typeof (iData + ' Wisen'); // 'string'
 
 用于判断类型时应该用`call`方法改变this指向，否则返回结果都是`'[object Object]'`
 
-
-
 ```js
 Object.prototype.toString.call(1) // "[object Number]"
 
@@ -87,8 +83,6 @@ Object.prototype.toString.call(Symbol(1)) // "[object Symbol]"
 Object.prototype.toString.call(Math); // "[object Math]"
 ```
 
-
-
 ## instanceof 操作符的实现原理
 
 MDN上的解释
@@ -106,8 +100,6 @@ nicole instanceof person // true
 nicole instanceof programmer // true
 ```
 
-
-
 其实MDN上的定义已经很好地说明了instanceof的原理，用代码表示如下：
 
 ```js
@@ -115,20 +107,16 @@ function new_instance_of(leftVaule, rightVaule) {
     let rightProto = rightVaule.prototype; // 取右表达式的 prototype 值
     leftVaule = leftVaule.__proto__; // 取左表达式的__proto__值
     while (true) {
-    	if (leftVaule === null) {
-            return false;	
+        if (leftVaule === null) {
+            return false;    
         }
         if (leftVaule === rightProto) {
-            return true;	
+            return true;    
         } 
         leftVaule = leftVaule.__proto__ 
     }
 }
 ```
-
-
-
-
 
 ## 几个有趣的例子
 
@@ -158,11 +146,7 @@ leftValue = Function.prototype.__proto__ = Object.prototype
 leftValue === rightValue     // 返回true
 ```
 
-
-
 `Function instanceof Function`和`Function instanceof Object`运行过程和上面类似，也都返回`true`
-
-
 
 ## Foo instanceof Foo
 
@@ -183,8 +167,6 @@ leftValue === null
 // 返回false
 ```
 
-
-
 ## Foo instanceof Function
 
 ```js
@@ -196,10 +178,6 @@ leftValue === rightValue
 
 // 返回true
 ```
-
-
-
-
 
 ## 总结
 

@@ -42,16 +42,25 @@
     - [浮点数精度](https://github.com/adjfks/daydayup/blob/main/JavaScript/浮点数精度.md)
     - [深入理解Generator](https://github.com/adjfks/daydayup/blob/main/JavaScript/深入理解Generator.md)
     - [立即执行函数IIFE](https://github.com/adjfks/daydayup/blob/main/JavaScript/立即执行函数IIFE.md)
+    - [通过ECMA262理解抽象相等比较算法](https://github.com/adjfks/daydayup/blob/main/JavaScript/通过ECMA262理解抽象相等比较算法.md)
     - [闭包和虽死犹存的函数](https://github.com/adjfks/daydayup/blob/main/JavaScript/闭包和虽死犹存的函数.md)
 - series
+    - [axios](https://github.com/adjfks/daydayup/blob/main/series/axios.md)
     - [computed中不要有异步操作](https://github.com/adjfks/daydayup/blob/main/series/computed中不要有异步操作.md)
     - [vue-router自动滚动到顶部](https://github.com/adjfks/daydayup/blob/main/series/vue-router自动滚动到顶部.md)
     - [vue-touter完整的导航解析流程](https://github.com/adjfks/daydayup/blob/main/series/vue-touter完整的导航解析流程.md)
+    - [Vue3setup语法糖问题](https://github.com/adjfks/daydayup/blob/main/series/Vue3setup语法糖问题.md)
+    - [vue3挂载全局变量方法](https://github.com/adjfks/daydayup/blob/main/series/vue3挂载全局变量方法.md)
     - [vue3组件v-model](https://github.com/adjfks/daydayup/blob/main/series/vue3组件v-model.md)
+    - [VueUse-onClickOutside](https://github.com/adjfks/daydayup/blob/main/series/VueUse-onClickOutside.md)
     - [vue内置transition组件使用](https://github.com/adjfks/daydayup/blob/main/series/vue内置transition组件使用.md)
+    - [vue动态切换组件](https://github.com/adjfks/daydayup/blob/main/series/vue动态切换组件.md)
     - [vue根据路由id变化获取新数据](https://github.com/adjfks/daydayup/blob/main/series/vue根据路由id变化获取新数据.md)
     - [vue组件上添加属性](https://github.com/adjfks/daydayup/blob/main/series/vue组件上添加属性.md)
     - [一个待解决的await的问题](https://github.com/adjfks/daydayup/blob/main/series/一个待解决的await的问题.md)
+    - [字符串方法](https://github.com/adjfks/daydayup/blob/main/series/字符串方法.md)
+    - [正则小抄](https://github.com/adjfks/daydayup/blob/main/series/正则小抄.md)
+    - [组件通信](https://github.com/adjfks/daydayup/blob/main/series/组件通信.md)
 - Vue
     - [useRoute和useRouter都区别](https://github.com/adjfks/daydayup/blob/main/Vue/useRoute和useRouter都区别.md)
     - [Vue3文档学习笔记](https://github.com/adjfks/daydayup/blob/main/Vue/Vue3文档学习笔记.md)
@@ -65,6 +74,7 @@
     - [webpack内部原理](https://github.com/adjfks/daydayup/blob/main/webpack/webpack内部原理.md)
 - 动手实践
     - [在线文档编辑器的基本实现原理](https://github.com/adjfks/daydayup/blob/main/动手实践/在线文档编辑器的基本实现原理.md)
+- 性能优化
 - 手写系列
     - [手写系列一](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列一.md)
     - [手写系列七](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列七.md)
