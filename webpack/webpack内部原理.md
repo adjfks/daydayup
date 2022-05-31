@@ -103,13 +103,9 @@ import(
 });
 ```
 
-
-
 ## 输出
 
 输出文件的名称会受配置中的两个字段的影响：
 
 - `output.filename`- 用于 `initial` chunk 文件
 - `output.chunkFilename` - 用于 `non-initial` chunk 文件
-
-

@@ -78,7 +78,7 @@ export default {
 
 一些[注意点](https://taro-docs.jd.com/taro/docs/use-h5)：
 
--  `<span>` 默认表现为块级样式
+- `<span>` 默认表现为块级样式
 
 - 小程序中不支持部分css选择器如通配符(*)、媒体查询、属性选择器。
 
