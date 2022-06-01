@@ -25,6 +25,8 @@
     - [css选择器](https://github.com/adjfks/daydayup/blob/main/CSS/css选择器.md)
     - [flex布局基础到进阶](https://github.com/adjfks/daydayup/blob/main/CSS/flex布局基础到进阶.md)
     - [盒子模型](https://github.com/adjfks/daydayup/blob/main/CSS/盒子模型.md)
+    - [盒子模型理解](https://github.com/adjfks/daydayup/blob/main/CSS/盒子模型理解.md)
+    - [鲜为人知的css属性series](https://github.com/adjfks/daydayup/blob/main/CSS/鲜为人知的css属性series.md)
 - ES6
 - JavaScript
     - [bind的模拟实现](https://github.com/adjfks/daydayup/blob/main/JavaScript/bind的模拟实现.md)
@@ -44,6 +46,7 @@
     - [立即执行函数IIFE](https://github.com/adjfks/daydayup/blob/main/JavaScript/立即执行函数IIFE.md)
     - [通过ECMA262理解抽象相等比较算法](https://github.com/adjfks/daydayup/blob/main/JavaScript/通过ECMA262理解抽象相等比较算法.md)
     - [闭包和虽死犹存的函数](https://github.com/adjfks/daydayup/blob/main/JavaScript/闭包和虽死犹存的函数.md)
+- js_series
 - series
     - [axios](https://github.com/adjfks/daydayup/blob/main/series/axios.md)
     - [computed中不要有异步操作](https://github.com/adjfks/daydayup/blob/main/series/computed中不要有异步操作.md)
@@ -52,6 +55,7 @@
     - [fetch](https://github.com/adjfks/daydayup/blob/main/series/fetch.md)
     - [JSX](https://github.com/adjfks/daydayup/blob/main/series/JSX.md)
     - [PromiseAll应用](https://github.com/adjfks/daydayup/blob/main/series/PromiseAll应用.md)
+    - [rem移动适配](https://github.com/adjfks/daydayup/blob/main/series/rem移动适配.md)
     - [vue-render](https://github.com/adjfks/daydayup/blob/main/series/vue-render.md)
     - [vue-router自动滚动到顶部](https://github.com/adjfks/daydayup/blob/main/series/vue-router自动滚动到顶部.md)
     - [vue-touter完整的导航解析流程](https://github.com/adjfks/daydayup/blob/main/series/vue-touter完整的导航解析流程.md)
@@ -70,11 +74,16 @@
     - [一个待解决的await的问题](https://github.com/adjfks/daydayup/blob/main/series/一个待解决的await的问题.md)
     - [字符串方法](https://github.com/adjfks/daydayup/blob/main/series/字符串方法.md)
     - [正则小抄](https://github.com/adjfks/daydayup/blob/main/series/正则小抄.md)
+    - [箭头函数](https://github.com/adjfks/daydayup/blob/main/series/箭头函数.md)
     - [组件通信](https://github.com/adjfks/daydayup/blob/main/series/组件通信.md)
 - typescript
     - [typescript入门](https://github.com/adjfks/daydayup/blob/main/typescript/typescript入门.md)
+- vite
+    - [vite插件vitejsplugin-vue](https://github.com/adjfks/daydayup/blob/main/vite/vite插件vitejsplugin-vue.md)
 - Vue
     - [useRoute和useRouter都区别](https://github.com/adjfks/daydayup/blob/main/Vue/useRoute和useRouter都区别.md)
+    - [Vue&&WebComponent](https://github.com/adjfks/daydayup/blob/main/Vue/Vue&&WebComponent.md)
+    - [Vue3Essential](https://github.com/adjfks/daydayup/blob/main/Vue/Vue3Essential.md)
     - [Vue3文档学习笔记](https://github.com/adjfks/daydayup/blob/main/Vue/Vue3文档学习笔记.md)
     - Vue原理
         - .vscode
@@ -82,8 +91,10 @@
     - [Vue插件](https://github.com/adjfks/daydayup/blob/main/Vue/Vue插件.md)
     - [Vue渲染函数](https://github.com/adjfks/daydayup/blob/main/Vue/Vue渲染函数.md)
 - webpack
+    - [webpack中的compiler](https://github.com/adjfks/daydayup/blob/main/webpack/webpack中的compiler.md)
     - [Webpack中的tree-shaking](https://github.com/adjfks/daydayup/blob/main/webpack/Webpack中的tree-shaking.md)
     - [webpack内部原理](https://github.com/adjfks/daydayup/blob/main/webpack/webpack内部原理.md)
+    - [编写webpack-loader和plugin](https://github.com/adjfks/daydayup/blob/main/webpack/编写webpack-loader和plugin.md)
 - 前端工程化
     - [Monorepo实战](https://github.com/adjfks/daydayup/blob/main/前端工程化/Monorepo实战.md)
 - 动手实践
@@ -102,9 +113,6 @@
     - [手写系列六](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列六.md)
     - [手写系列四](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列四.md)
 - 每日leetcode
-    - 剑指offer2
-        - day1
-            - [剑指 Offer 12](https://github.com/adjfks/daydayup/blob/main/day1/剑指 Offer 12. 矩阵中的路径.md)
 - 浏览器
     - [chrome浏览器的分层合成](https://github.com/adjfks/daydayup/blob/main/浏览器/chrome浏览器的分层合成.md)
     - [v8引擎的垃圾回收机制](https://github.com/adjfks/daydayup/blob/main/浏览器/v8引擎的垃圾回收机制.md)
