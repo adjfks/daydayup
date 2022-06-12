@@ -1,3 +1,4 @@
+```js
 /* 
 Object.entries()方法返回一个给定对象自身可枚举属性的键值对数组，
 其排列与使用 for...in 循环遍历该对象时返回的顺序一致
@@ -24,3 +25,7 @@ for (const [key, value] of Object.entries(object1)) {
 var obj = { foo: "bar", baz: 42 };
 var map = new Map(Object.entries(obj));
 console.log(map); // Map { foo: "bar", baz: 42 }
+
+```
+
+

@@ -140,6 +140,14 @@ watchEffect(callback, {
 
 - 要手动销毁，调用创造watcher时返回的函数即可。
 
+
+
+- 回调函数有一个参数，该参数是一个函数
+
+```js
+
+```
+
 ### 6. watchPostEffect
 
 - `watchEffect(callback , { flush: 'post' })`的语法糖。
@@ -324,12 +332,6 @@ items.value = items.value.filter((item) => item.message.match(/Foo/))
 * `.left`
 * `.right`
 * `.middle`
-
-
-
-
-
-
 
 ## 响应式基础
 
