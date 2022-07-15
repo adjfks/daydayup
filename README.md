@@ -39,6 +39,7 @@
     - [new操作符](https://github.com/adjfks/daydayup/blob/main/JavaScript/new操作符.md)
     - [从ECMAScript解读this](https://github.com/adjfks/daydayup/blob/main/JavaScript/从ECMAScript解读this.md)
     - [变量对象与作用域链](https://github.com/adjfks/daydayup/blob/main/JavaScript/变量对象与作用域链.md)
+    - [实现相对完备的深拷贝方法](https://github.com/adjfks/daydayup/blob/main/JavaScript/实现相对完备的深拷贝方法.md)
     - [散列哈希](https://github.com/adjfks/daydayup/blob/main/JavaScript/散列哈希.md)
     - [柯里化](https://github.com/adjfks/daydayup/blob/main/JavaScript/柯里化.md)
     - [浮点数精度](https://github.com/adjfks/daydayup/blob/main/JavaScript/浮点数精度.md)
@@ -47,15 +48,27 @@
     - [通过ECMA262理解抽象相等比较算法](https://github.com/adjfks/daydayup/blob/main/JavaScript/通过ECMA262理解抽象相等比较算法.md)
     - [闭包和虽死犹存的函数](https://github.com/adjfks/daydayup/blob/main/JavaScript/闭包和虽死犹存的函数.md)
 - js_series
+    - [class转es5](https://github.com/adjfks/daydayup/blob/main/js_series/class转es5.md)
+    - [Object-entries](https://github.com/adjfks/daydayup/blob/main/js_series/Object-entries.md)
+    - [内置符号iterator](https://github.com/adjfks/daydayup/blob/main/js_series/内置符号iterator.md)
+    - [字符串操作方法大汇总](https://github.com/adjfks/daydayup/blob/main/js_series/字符串操作方法大汇总.md)
+    - [操作DOMCSS](https://github.com/adjfks/daydayup/blob/main/js_series/操作DOMCSS.md)
+    - [数组去重](https://github.com/adjfks/daydayup/blob/main/js_series/数组去重.md)
+    - [检测localStorage是否可用](https://github.com/adjfks/daydayup/blob/main/js_series/检测localStorage是否可用.md)
+    - [箭头函数实现管道机制](https://github.com/adjfks/daydayup/blob/main/js_series/箭头函数实现管道机制.md)
 - series
     - [axios](https://github.com/adjfks/daydayup/blob/main/series/axios.md)
     - [computed中不要有异步操作](https://github.com/adjfks/daydayup/blob/main/series/computed中不要有异步操作.md)
     - [confirm组件过渡动画问题](https://github.com/adjfks/daydayup/blob/main/series/confirm组件过渡动画问题.md)
     - [ConventionalCommits ](https://github.com/adjfks/daydayup/blob/main/series/ConventionalCommits .md)
     - [fetch](https://github.com/adjfks/daydayup/blob/main/series/fetch.md)
+    - [flex1元素高度溢出问题](https://github.com/adjfks/daydayup/blob/main/series/flex1元素高度溢出问题.md)
     - [JSX](https://github.com/adjfks/daydayup/blob/main/series/JSX.md)
+    - [JSX插件](https://github.com/adjfks/daydayup/blob/main/series/JSX插件.md)
+    - [pm2基本用法](https://github.com/adjfks/daydayup/blob/main/series/pm2基本用法.md)
     - [PromiseAll应用](https://github.com/adjfks/daydayup/blob/main/series/PromiseAll应用.md)
     - [rem移动适配](https://github.com/adjfks/daydayup/blob/main/series/rem移动适配.md)
+    - [vscode设置](https://github.com/adjfks/daydayup/blob/main/series/vscode设置.md)
     - [vue-render](https://github.com/adjfks/daydayup/blob/main/series/vue-render.md)
     - [vue-router自动滚动到顶部](https://github.com/adjfks/daydayup/blob/main/series/vue-router自动滚动到顶部.md)
     - [vue-touter完整的导航解析流程](https://github.com/adjfks/daydayup/blob/main/series/vue-touter完整的导航解析流程.md)
@@ -78,17 +91,30 @@
     - [组件通信](https://github.com/adjfks/daydayup/blob/main/series/组件通信.md)
 - typescript
     - [typescript入门](https://github.com/adjfks/daydayup/blob/main/typescript/typescript入门.md)
+    - [扩展接口](https://github.com/adjfks/daydayup/blob/main/typescript/扩展接口.md)
+    - [简版手册](https://github.com/adjfks/daydayup/blob/main/typescript/简版手册.md)
+    - [类型收窄](https://github.com/adjfks/daydayup/blob/main/typescript/类型收窄.md)
 - vite
     - [vite插件vitejsplugin-vue](https://github.com/adjfks/daydayup/blob/main/vite/vite插件vitejsplugin-vue.md)
 - Vue
+    - [AJV](https://github.com/adjfks/daydayup/blob/main/Vue/AJV.md)
+    - [diff算法](https://github.com/adjfks/daydayup/blob/main/Vue/diff算法.md)
+    - [nextTick的使用与原理](https://github.com/adjfks/daydayup/blob/main/Vue/nextTick的使用与原理.md)
+    - [pinia简单使用](https://github.com/adjfks/daydayup/blob/main/Vue/pinia简单使用.md)
+    - [Reactive全家桶](https://github.com/adjfks/daydayup/blob/main/Vue/Reactive全家桶.md)
+    - [Ref全家桶](https://github.com/adjfks/daydayup/blob/main/Vue/Ref全家桶.md)
+    - [to系列全家桶](https://github.com/adjfks/daydayup/blob/main/Vue/to系列全家桶.md)
     - [useRoute和useRouter都区别](https://github.com/adjfks/daydayup/blob/main/Vue/useRoute和useRouter都区别.md)
     - [Vue&&WebComponent](https://github.com/adjfks/daydayup/blob/main/Vue/Vue&&WebComponent.md)
+    - [Vue2与Vue3区别](https://github.com/adjfks/daydayup/blob/main/Vue/Vue2与Vue3区别.md)
     - [Vue3Essential](https://github.com/adjfks/daydayup/blob/main/Vue/Vue3Essential.md)
+    - [Vue3各种API](https://github.com/adjfks/daydayup/blob/main/Vue/Vue3各种API.md)
     - [Vue3文档学习笔记](https://github.com/adjfks/daydayup/blob/main/Vue/Vue3文档学习笔记.md)
     - Vue原理
         - .vscode
     - [Vue原理](https://github.com/adjfks/daydayup/blob/main/Vue/Vue原理.md)
     - [Vue插件](https://github.com/adjfks/daydayup/blob/main/Vue/Vue插件.md)
+    - [Vue模板编译](https://github.com/adjfks/daydayup/blob/main/Vue/Vue模板编译.md)
     - [Vue渲染函数](https://github.com/adjfks/daydayup/blob/main/Vue/Vue渲染函数.md)
 - webpack
     - [webpack中的compiler](https://github.com/adjfks/daydayup/blob/main/webpack/webpack中的compiler.md)
@@ -98,7 +124,12 @@
 - 前端工程化
     - [Monorepo实战](https://github.com/adjfks/daydayup/blob/main/前端工程化/Monorepo实战.md)
 - 动手实践
+    - [写一个Vue3转base64的hooks](https://github.com/adjfks/daydayup/blob/main/动手实践/写一个Vue3转base64的hooks.md)
     - [在线文档编辑器的基本实现原理](https://github.com/adjfks/daydayup/blob/main/动手实践/在线文档编辑器的基本实现原理.md)
+    - [如何开发一个Vue3组件库](https://github.com/adjfks/daydayup/blob/main/动手实践/如何开发一个Vue3组件库.md)
+    - [跟着antfu做一个world-time](https://github.com/adjfks/daydayup/blob/main/动手实践/跟着antfu做一个world-time.md)
+- 学习记录
+    - [2022-6-3~6-9](https://github.com/adjfks/daydayup/blob/main/学习记录/2022-6-3~6-9.md)
 - 小程序
     - [taro学习](https://github.com/adjfks/daydayup/blob/main/小程序/taro学习.md)
 - 性能优化
@@ -113,6 +144,10 @@
     - [手写系列六](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列六.md)
     - [手写系列四](https://github.com/adjfks/daydayup/blob/main/手写系列/手写系列四.md)
 - 每日leetcode
+    - [斐波那契数列多种解法](https://github.com/adjfks/daydayup/blob/main/每日leetcode/斐波那契数列多种解法.md)
+    - 树
+        - [二叉树镜像](https://github.com/adjfks/daydayup/blob/main/树/二叉树镜像.md)
+        - [判断A树是否含有B树](https://github.com/adjfks/daydayup/blob/main/树/判断A树是否含有B树.md)
 - 浏览器
     - [chrome浏览器的分层合成](https://github.com/adjfks/daydayup/blob/main/浏览器/chrome浏览器的分层合成.md)
     - [v8引擎的垃圾回收机制](https://github.com/adjfks/daydayup/blob/main/浏览器/v8引擎的垃圾回收机制.md)

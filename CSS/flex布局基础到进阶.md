@@ -109,22 +109,16 @@ flex: flex-grow flex-shrink flex-basis
 
 flex: 1 1 auto 表现如下如图：
 
-<img src="../assets/images/11.png"/>
+<img title="null" src="file:///D:/CS/Repositories/daydayup/assets/images/11.png" alt="null">
 
 flex: 1 1 0表现如下图：
 
-<img src="../assets/images/12.png"/>
+<img title="null" src="file:///D:/CS/Repositories/daydayup/assets/images/12.png" alt="null">
 
 **注意：`flex:1`相当于`flex: 1 1 0`**
-
-
 
 ### 5. flex-shrink
 
 指定了**flex 缩小值**, 它确定在分配negative free space时，flex子元素相对于flex容器中其余flex子元素收缩的程度.
-
-
-
-
 
 未完待续。。。
